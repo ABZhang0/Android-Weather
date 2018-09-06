@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Houston Temp App</string>
+    <string name="button_temp">Temp @ HOU</string>
+    <string name="button_back">Back</string>
+    <string name="temp_in_houston">Current temperature in Houston, TX:</string>
+    <string name="degrees_celsius">C</string>
+</resources>
